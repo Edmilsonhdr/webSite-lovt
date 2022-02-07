@@ -1,0 +1,14 @@
+/*==================================================IMAGEM-PRINCIPAL======================================*/
+
+#menu{
+    width:100%;
+    height: auto;
+    margin-top: 68px;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-figure{
+    width:81%;
+    height:auto;
+}
